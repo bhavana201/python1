@@ -1,0 +1,17 @@
+1.printf("hello world")
+2.a=12
+  b=13
+  a+b
+3.a=int(input("enter the first number:"))
+  b=int(input("enter the second number:"))
+  print("the sum of {0} and {1} is :{2}".format(a,b,a+b))
+4.print("hello","world",sep="@")
+5.print("hello","world",sep="\n\n")
+6.print("hello","world",sep="\n")
+7.print("hello","world",sep=" ----")
+8.print('this "world" is awesom')
+9.print("hello"+"world")
+10.name="computer"
+   location="local"
+   print(f"{name}is from {location}")
+11.print("hello","world",end="!!!",sep="@")   
